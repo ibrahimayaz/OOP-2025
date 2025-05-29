@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Polimorfizm2/1.0.0": {
+        "runtime": {
+          "Polimorfizm2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfizm2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

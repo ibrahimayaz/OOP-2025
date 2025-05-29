@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.AssemblyInfo.cs
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.sourcelink.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\bin\Debug\net8.0\Kapsulleme.exe
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\bin\Debug\net8.0\Kapsulleme.deps.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\bin\Debug\net8.0\Kapsulleme.runtimeconfig.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\bin\Debug\net8.0\Kapsulleme.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\bin\Debug\net8.0\Kapsulleme.pdb
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\refint\Kapsulleme.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.pdb
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\Kapsulleme.genruntimeconfig.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders9\Kapsulleme\Kapsulleme\obj\Debug\net8.0\ref\Kapsulleme.dll

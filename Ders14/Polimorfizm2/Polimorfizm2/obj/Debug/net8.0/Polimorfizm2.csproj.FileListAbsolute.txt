@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\bin\Debug\net8.0\Polimorfizm2.exe
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\bin\Debug\net8.0\Polimorfizm2.deps.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\bin\Debug\net8.0\Polimorfizm2.runtimeconfig.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\bin\Debug\net8.0\Polimorfizm2.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\bin\Debug\net8.0\Polimorfizm2.pdb
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.AssemblyInfo.cs
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.sourcelink.json
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\refint\Polimorfizm2.dll
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.pdb
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\Polimorfizm2.genruntimeconfig.cache
+C:\Users\win10\Desktop\Ders Dokümanları\OOP\Ders14\Polimorfizm2\Polimorfizm2\obj\Debug\net8.0\ref\Polimorfizm2.dll

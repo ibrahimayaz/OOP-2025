@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\Desktop\\Ders Dok\u00FCmanlar\u0131\\OOP\\Ders9\\Kapsulleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D251F5-85DC-4F0F-9D80-7258E4F1C503}|Kapsulleme\\Kapsulleme.csproj|c:\\users\\win10\\desktop\\ders dok\u00FCmanlar\u0131\\oop\\ders9\\kapsulleme\\kapsulleme\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D251F5-85DC-4F0F-9D80-7258E4F1C503}|Kapsulleme\\Kapsulleme.csproj|solutionrelative:kapsulleme\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D251F5-85DC-4F0F-9D80-7258E4F1C503}|Kapsulleme\\Kapsulleme.csproj|c:\\users\\win10\\desktop\\ders dok\u00FCmanlar\u0131\\oop\\ders9\\kapsulleme\\kapsulleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D251F5-85DC-4F0F-9D80-7258E4F1C503}|Kapsulleme\\Kapsulleme.csproj|solutionrelative:kapsulleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Desktop\\Ders Dok\u00FCmanlar\u0131\\OOP\\Ders9\\Kapsulleme\\Kapsulleme\\Kitap.cs",
+              "RelativeDocumentMoniker": "Kapsulleme\\Kitap.cs",
+              "ToolTip": "C:\\Users\\win10\\Desktop\\Ders Dok\u00FCmanlar\u0131\\OOP\\Ders9\\Kapsulleme\\Kapsulleme\\Kitap.cs",
+              "RelativeToolTip": "Kapsulleme\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:17:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Desktop\\Ders Dok\u00FCmanlar\u0131\\OOP\\Ders9\\Kapsulleme\\Kapsulleme\\Program.cs",
+              "RelativeDocumentMoniker": "Kapsulleme\\Program.cs",
+              "ToolTip": "C:\\Users\\win10\\Desktop\\Ders Dok\u00FCmanlar\u0131\\OOP\\Ders9\\Kapsulleme\\Kapsulleme\\Program.cs",
+              "RelativeToolTip": "Kapsulleme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:16:57.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
